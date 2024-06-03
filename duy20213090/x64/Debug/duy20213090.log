@@ -1,0 +1,8 @@
+﻿  duy20213090.cpp
+C:\Users\Ta Huu Duy\Documents\duy20213090\duy20213090\duy20213090.cpp(71,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ta Huu Duy\Documents\duy20213090\duy20213090\duy20213090.cpp(111,5): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ta Huu Duy\Documents\duy20213090\duy20213090\duy20213090.cpp(116,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ta Huu Duy\Documents\duy20213090\duy20213090\duy20213090.cpp(117,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ta Huu Duy\Documents\duy20213090\duy20213090\duy20213090.cpp(165,40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Ta Huu Duy\Documents\duy20213090\duy20213090\duy20213090.cpp(174,59): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  duy20213090.vcxproj -> C:\Users\Ta Huu Duy\Documents\duy20213090\x64\Debug\duy20213090.exe
